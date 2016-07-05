@@ -27,6 +27,12 @@ website:   	http://www.themepunch.com
 
 }
 
+.top-label {
+	color: #FFF;
+	font-size: 24px;
+	font-weight: 300;
+}
+
 .tp-banner{
 
 	position:relative;
